@@ -14,6 +14,7 @@ Provides more detailed information about my grandmother's life.
 <b>🖥 Photos</b>
 </br>
 A section where you can found my grandmother's photos also there are photos with me when I was a baby.
+</br>
 <b>📹 Playlist</b>
 </br>
 A section with my grandmother's favorites songs.
@@ -21,5 +22,7 @@ A section with my grandmother's favorites songs.
 <b>📝 Contact me</b>
 </br>
 A form where you can get in touch with me if you have any questions or comments.
+</br>
+</br>
 </br>
 Keren Gorelik ,206749731.
