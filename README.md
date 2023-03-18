@@ -6,16 +6,16 @@ She was a wonderful person who always brought joy and laughter to everyone aroun
 <h2><b>Link to my website</h2></b>
 https://keren1231998.github.io/FirstWebsite/ 
 </br>
-**👨🏻‍💻 About Me**
-*Provides more detailed information about my grandmother's life.*
+<b>👨🏻‍💻 About Me</b>
+Provides more detailed information about my grandmother's life.
 </br>
-**🖥 Photos**
-*A section where you can found my grandmother's photos also there are photos with me when I was a baby.*
+<b>🖥 Photos</b>
+A section where you can found my grandmother's photos also there are photos with me when I was a baby.
 </br>
-**📹 Playlist**
-*A section with my grandmother's favorites songs.*
+<b>📹 Playlist</b>
+A section with my grandmother's favorites songs.
 </br>
-**📝 Contact me**
-*A form where you can get in touch with me if you have any questions or comments.*
+<b>📝 Contact me</b>
+A form where you can get in touch with me if you have any questions or comments.
 
 Keren Gorelik ,206749731.
