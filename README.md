@@ -6,14 +6,14 @@ She was a wonderful person who always brought joy and laughter to everyone aroun
 <h2><b>Link to my website</h2></b>
 https://keren1231998.github.io/FirstWebsite/
 </br>
-<h3> <b>👨🏻‍💻 About Me </b></h3>
+<h3 style="font-size:30px"> <b>👨🏻‍💻 About Me </b></h3>
 Provides more detailed information about my grandmother's life.
 </br>
-<h4><b>🖥 Photos</b></h4>
+<h4 style="font-size:30px"><b>🖥 Photos</b></h4>
 A section where you can found my grandmother's photos also there are photos with me when I was a baby.
 </br>
-<h5><b>📹 Playlist</b><h5>
+<h5 style="font-size:30px"><b>📹 Playlist</b><h5>
 A section with my grandmother's favorites songs.
 </br>
-<h6><b>📝 Contact me</b><h6>
+<h6 style="font-size:30px"><b>📝 Contact me</b><h6>
 A form where you can get in touch with me if you have any questions or comments.
